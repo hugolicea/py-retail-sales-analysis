@@ -1,0 +1,7 @@
+Sum of Sales,Column Labels,,,
+Row Labels,Product A,Product B,Product C,Grand Total
+1/1/2023,50,40,,90
+1/2/2023,70,,90,160
+1/3/2023,,80,60,140
+1/4/2023,10,20,,30
+Grand Total,130,140,150,420

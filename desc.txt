@@ -1,0 +1,14 @@
+# 1. Read Data: Load the CSV data into a Pandas DataFrame.
+# 2. Data Cleaning:
+#      Check for and remove rows with missing values in any column.
+# 3. Data Manipulation and Analysis:
+#      Calculate total sales per product.
+#      Identify the best-selling product.
+#      Compute average daily sales.
+# 4.  Visualization:
+#      Plot sales trends over time.
+#      Display sales per product in a bar chart.
+# 5.  Class and Function:
+#      Define a Python class RetailSalesAnalyzer with methods for each of the above tasks (loading data, calculating statistics, and creating visualizations).
+# 6.  Script Execution:
+#      Write a script that creates an instance of RetailSalesAnalyzer, calls its methods, and displays the results.
